@@ -1,0 +1,35 @@
+Title: 2015 計算機程式 作業三
+Date: 2015-09-27 13:41
+Modified: 2015-09-27 13:41
+Category: Python
+Tags: pelican, publishing
+Slug: 2015cp_hw_w3
+Authors: coursemdetw
+Summary: 作業三摘要
+以下為作業三內容
+
+利用 iframe 嵌入投影片:
+
+<iframe src="simplest.html" width="500" height="300"></iframe>
+
+[作業二投影片](cadpbw1.html){:target="_blank"}
+
+使用 H1 標題
+============
+
+>測試資料
+
+  * 第1項說明
+  * 第2項說明
+  * 第3項說明
+
+特別注意 --- 不包括星號 --- 表列文字從第四欄位開始.
+
+> 引用的內容寫在這裡
+> 主要是以大於的符號開頭.
+>
+> 其中也可以利用空白行隔開,
+> 整區都是引用內容的範圍.
+
+ ellipsis.
+pelican 可以支援 unicode. ☺
